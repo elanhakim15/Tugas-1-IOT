@@ -1,0 +1,50 @@
+Elan Abdul Hakim
+09021182126030
+TI Bilingual 2021
+
+1. Sejarah dan Definisi IoT
+
+Sejarah IoT (Internet of Things):
+Internet of Things (IoT) mengacu pada jaringan perangkat fisik yang terhubung dan saling berkomunikasi melalui internet. Konsep ini telah berkembang seiring waktu, dan beberapa tonggak sejarah dalam perkembangan IoT antara lain:
+
+- 1970-an - 1980-an: Konsep perangkat terhubung pertama kali muncul. Sebagai contoh, protokol ARPANET (leluhur internet) digunakan untuk menghubungkan perangkat elektronik.
+- 1990-an: Munculnya konsep "ubiquitous computing" atau komputasi sehari-hari, di mana komputer terintegrasi dalam objek sehari-hari. Proyek seperti Auto-ID Center di MIT mulai mengeksplorasi teknologi identifikasi otomatis.
+- 2000-an: Munculnya istilah "Internet of Things". Proyek-proyek seperti Auto-ID Labs dan EPCglobal memainkan peran dalam standarisasi teknologi RFID (Radio-Frequency Identification).
+- 2010-an: Perkembangan teknologi sensor, konektivitas nirkabel, dan cloud computing mempercepat pertumbuhan IoT. Penyedia layanan IoT dan perusahaan teknologi besar mulai merilis produk dan layanan IoT.
+- Sekarang (2020-an): IoT semakin meresap dalam berbagai industri, termasuk rumah pintar, kesehatan, manufaktur, transportasi, dan lainnya. Standar dan protokol komunikasi seperti MQTT dan CoAP membantu dalam interoperabilitas perangkat IoT.
+
+Definisi IoT:
+
+Internet of Things (IoT) adalah konsep di mana objek fisik (perangkat, kendaraan, bangunan, dan lainnya) dilengkapi dengan teknologi yang memungkinkan mereka terhubung dan berkomunikasi dengan perangkat lain melalui internet. Tujuan utama dari IoT adalah memberikan data yang lebih baik, pemantauan real-time, dan otomatisasi untuk meningkatkan efisiensi, produktivitas, dan kenyamanan.
+Karakteristik utama IoT melibatkan penggunaan sensor dan aktuator untuk mengumpulkan data, konektivitas nirkabel untuk mengirimkan data, serta analisis data dan komputasi awan untuk memberikan informasi yang bermanfaat. IoT telah membuka potensi untuk transformasi besar dalam berbagai sektor, mulai dari industri hingga rumah tangga, dengan menciptakan lingkungan yang lebih cerdas dan terhubung.
+
+2. Referensi Model IoT
+
+- Physical Devices & Controller
+Layer pertama dari referensi model IoT adalah Physical Devices & Controller. Layer ini merupakan layer terbawah dalam hierarki referensi model IoT yang bertanggung jawab untuk mengumpulkan data dari sensor atau perangkat yang terhubung ke jaringan IoT. Pada layer ini, perangkat keras seperti Raspberry Pi, Arduino, dan sensor-sensor IoT berada di dalamnya. Raspberry Pi dan Arduino sering digunakan sebagai kontroler atau gateway untuk menghubungkan beberapa sensor dan perangkat IoT ke jaringan internet.
+
+- Connectivity Layer
+kedua dari referensi model IoT adalah Connectivity. Pada layer ini, perangkat IoT terhubung ke jaringan internet melalui koneksi nirkabel atau kabel. Router dan modem adalah contoh perangkat yang digunakan untuk menghubungkan perangkat IoT ke jaringan internet. Selain itu, protokol seperti Wi-Fi, Bluetooth, Zigbee, dan Z-Wave juga digunakan untuk menghubungkan perangkat IoT ke jaringan internet.
+
+- Edge Computing
+Layer ketiga dari referensi model IoT adalah Edge Computing. Pada layer ini, proses komputasi dilakukan di perangkat IoT atau di tepi jaringan (edge of the network), bukan di server pusat. Edge computing memungkinkan pengolahan data secara real-time dan mengurangi beban jaringan, sehingga meningkatkan kecepatan dan efisiensi pengolahan data. Apache Kafka dan Apache Spark adalah contoh teknologi edge computing yang sering digunakan pada layer ini.
+
+- Data Accumulation
+Layer keempat dari referensi model IoT adalah Data Accumulation. Pada layer ini, data yang dikumpulkan dari perangkat IoT diolah dan disimpan dalam database atau penyimpanan data. Apache Cassandra dan MongoDB adalah contoh teknologi penyimpanan data yang sering digunakan pada layer ini.
+
+- Collaboration & Process
+Layer kelima dari referensi model IoT adalah Collaboration & Process. Pada layer ini, data dari perangkat IoT diolah dan dianalisis untuk menghasilkan informasi yang
+
+- Application
+Layer keenam dari referensi model IoT adalah Application. Pada layer ini, data yang telah diolah dan dianalisis digunakan untuk membuat aplikasi yang dapat digunakan oleh pengguna akhir. Aplikasi tersebut dapat berupa aplikasi mobile, dashboard, atau website. Contoh teknologi yang sering digunakan pada layer ini adalah React Native, Flutter, dan AngularJS.
+
+- Data Abstraction
+Layer terakhir dari referensi model IoT adalah Data Abstraction. Pada layer ini, data yang telah diolah dan dianalisis diambil dan diubah menjadi bentuk yang lebih mudah dimengerti dan diakses oleh pengguna akhir. Contoh teknologi yang sering digunakan pada layer ini adalah API dan GraphQL.
+
+3. Contoh Implementasi IoT
+- Smart Home : Otomasi lampu, otomasi AC, online cctv
+- Smart transportation : sistem navigasi pintar, sistem transportasi publik terkoneksi, sistem pembayaran tol otomatis
+- Smart Health : smartwatch dengan deteksi detak jantung, konsultasi dokter online, rekam medis elektronik (EMR)
+
+4. Kebutuhan IoT
+AC pintar yang  dilengkapi dengan teknologi canggih yang dapat mengatur suhu secara otomatis berdasarkan penggunaan dan preferensi pengguna. Dengan Smart AC, pengguna dapat mengendalikan suhu dan pengaturan AC melalui smartphonenya dimanapun dan kapanpun.
